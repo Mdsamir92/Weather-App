@@ -28,3 +28,10 @@
   font-size:55px;
   font-weight: 700;
 }
+@media(max-width:768px){
+  .wetherBg{
+    background: url(https://e0.pxfuel.com/wallpapers/176/804/desktop-wallpaper-weather-beautiful-weather.jpg);
+    height: 50vh;
+  
+  }
+}
