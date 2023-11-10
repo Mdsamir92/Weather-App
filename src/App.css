@@ -1,10 +1,13 @@
 .wetherBg{
-  background: url(https://e0.pxfuel.com/wallpapers/176/804/desktop-wallpaper-weather-beautiful-weather.jpg);
+  background: url(https://e0.pxfuel.com/wallpapers/176/804/desktop-wallpaper-weather-beautiful-weather.jpg) ;
+  background-repeat: no-repeat;
+  background-position: center;
   height: 50vh;
   display: flex;
-  align-items: center;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+ 
 }
 .heading{
   color:white;
