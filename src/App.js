@@ -56,7 +56,7 @@ function App() {
             <h5 className="weatherCity">
               {data?.name}
             </h5>
-            <h6 className="weatherTemp">{((data?.main?.temp) - 273.15).toFixed(2)}°C</h6>
+            <h6 className="weatherTemp">{((data?.main?.temp) - 273.12).toFixed(2)}°C</h6>
           </div>
         </div>
       }
